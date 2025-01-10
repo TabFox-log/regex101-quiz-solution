@@ -21,7 +21,7 @@ Use substitution to replace every occurrence of the word `i` with the word `I` (
 	> \bi\b
 	
 	**Substitution**
-	> Blockquote
+	> I
 
     ***Your shortest solution thus far is **9** characters long. The overall shortest solution is **9** characters long.***
 
@@ -52,12 +52,12 @@ Find all occurrences of **4 or more** whitespace characters in a row throughout 
 Oh no! It seems my friends spilled beer all over my keyboard last night and my keys are super sticky now. Some of the time whennn I press a key, I get two duplicates. Can you ppplease help me fix thhhis?
 	
    **Regular Expression**
-	> (.)\1{2}
+	> (.)\1\1
 	
 	**Substitution**
 	> $1
 	
-	***Your shortest solution thus far is **13** characters long. The overall shortest solution is **12** characters long.***
+	***Your shortest solution thus far is **12** characters long. The overall shortest solution is **12** characters long.***
 
 7. [Task 7](https://regex101.com/quiz/7) <br>
 Validate an IPv4 address. The addresses are four numbered separated by three dots, and can only have a maximum value of 255 in either octet. Start by trying to validate `172.16.254.1`.
