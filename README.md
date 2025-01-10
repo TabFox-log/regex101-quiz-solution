@@ -8,7 +8,7 @@ If you find better and short solution pls let me know.
 Check if a string contains the word `word` in it (case insensitive). If you have no idea, I guess you could try `/word/`.
 		
 	**Regular Expression**
-	> \bword\b
+	> \bword\b <br>
 	And enable the "i" flag
 
     ***Your shortest solution thus far is **11** characters long. The overall shortest solution is **11** characters long.***
