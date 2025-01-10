@@ -9,7 +9,7 @@ Check if a string contains the word `word` in it (case insensitive). If you have
 		
 	**Regular Expression**
 	> \bword\b <br>
-	And enable the "i" flag
+	\And enable the "i" flag
 
     ***Your shortest solution thus far is **11** characters long. The overall shortest solution is **11** characters long.***
 
